@@ -59,7 +59,7 @@ Of course, no sites will serve all your needs. So we'll be adding more in the ne
 
 
 
-## Snapshots
+## pequeño video
 
  this is a free api.But if sometime this app will not work/available in any domains, i provide a yt vid. link that how it works.Thankyou.
 
